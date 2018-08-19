@@ -1,2 +1,2 @@
 # Research-papers
-1. This contains the complete R implementation of the research paper titled "A multivariate regression model for crime frequency prediction", authored by me. 
+This contains the submitted research paper and complete R implementation of the research paper titled "A Data Mining Framework for Crime Frequency Prediction", authored by me. 
